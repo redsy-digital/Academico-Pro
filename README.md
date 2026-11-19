@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Académico Pro — Website V1
 
-# Run and deploy your AI Studio app
+Site estático mobile-first em HTML + CSS + JavaScript.
 
-This contains everything you need to run your app locally.
+## Páginas
+- `index.html` — Home
+- `precos.html` — tabela de serviços e preços
+- `pedido.html` — formulário que prepara o pedido no WhatsApp
 
-View your app in AI Studio: https://ai.studio/apps/8fa60910-21a3-43c7-8827-d0364772a412
+## Contactos configurados
+- WhatsApp: +244 955 993 656
+- E-mail: dossantospedro.redsy@gmail.com
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Identidade
+- Navy: #101D38
+- Electric Blue: #2878F0
+- Gold: #E5B653
+- White: #FFFFFF
